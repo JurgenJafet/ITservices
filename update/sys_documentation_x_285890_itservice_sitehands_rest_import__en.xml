@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Sitehands REST import" language="en" table="x_285890_itservice_sitehands_rest_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Sitehands REST import</label>
+            <language>en</language>
+            <name>x_285890_itservice_sitehands_rest_import</name>
+            <plural>Sitehands REST imports</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-15 02:10:50</sys_created_on>
+            <sys_id>e3b05e5d373523000277dc1873990ebb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Sitehands REST import</sys_name>
+            <sys_package display_value="ITServices" source="x_285890_itservice">4cdcc6d9373523000277dc1873990e46</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ITServices">4cdcc6d9373523000277dc1873990e46</sys_scope>
+            <sys_update_name>sys_documentation_x_285890_itservice_sitehands_rest_import__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-15 02:10:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
